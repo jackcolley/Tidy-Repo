@@ -3,7 +3,7 @@ Simple command to keep your repo's tidy
 
 ## Setup
 * Either clone the repo or download as a zip to a location of your choice
-* Copy tidyrepo.sh to your usual storage location for bash scripts
+* Copy tidyrepo.sh to your usual storage location for bash scripts - I use /usr/local/bin
 * Setup an alias so you can use Tidy Repo globally.
 
 ## Usage
